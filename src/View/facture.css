@@ -1,0 +1,28 @@
+.table-view-style {
+    -fx-background-color: #f0f0f0;
+}
+
+.table-view-style .column-header-background {
+    -fx-background-color: #dddddd;
+}
+
+.table-view-style .column-header {
+    -fx-text-fill: #333333;
+}
+
+.table-view-style .table-row-cell {
+    -fx-background-color: #ffffff;
+}
+
+.table-view-style .table-row-cell:selected {
+    -fx-background-color: #a0c8f0;
+}
+
+.table-view-style .column {
+    -fx-alignment: CENTER;
+}
+
+.table-view-style .column .label {
+    -fx-font-weight: bold;
+}
+/*facture.css */
